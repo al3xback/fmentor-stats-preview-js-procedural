@@ -25,6 +25,7 @@ const createCardEl = () => {
 	const cardTitleEl = document.createElement('h2');
 	cardTitleEl.className = 'card__title';
 	cardTitleEl.textContent = 'Get ';
+
 	const cardTitleSpanEl = document.createElement('mark');
 	cardTitleSpanEl.textContent = 'insight';
 
