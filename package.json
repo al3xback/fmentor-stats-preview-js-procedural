@@ -1,7 +1,7 @@
 {
-	"name": "fmentor-stats-preview-flex",
+	"name": "fmentor-stats-preview-js-procedural",
 	"version": "1.0.0",
-	"description": "stats preview card component with display flex",
+	"description": "stats preview card component using js procedural",
 	"main": "index.js",
 	"scripts": {
 		"dev": "sass --watch scss/main.scss css/main.css",
@@ -10,14 +10,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/al3xback/fmentor-stats-preview-flex.git"
+		"url": "git+https://github.com/al3xback/fmentor-stats-preview-js-procedural.git"
 	},
 	"author": "alex <al3xback@gmail.com>",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/al3xback/fmentor-stats-preview-flex/issues"
+		"url": "https://github.com/al3xback/fmentor-stats-preview-js-procedural/issues"
 	},
-	"homepage": "https://github.com/al3xback/fmentor-stats-preview-flex#readme",
+	"homepage": "https://github.com/al3xback/fmentor-stats-preview-js-procedural#readme",
 	"devDependencies": {
 		"prettier": "^2.8.8",
 		"sass": "^1.62.1"
