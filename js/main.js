@@ -11,7 +11,7 @@ const createCardEl = () => {
 
 	const cardImageEl = document.createElement('img');
 	cardImageEl.src = './images/meeting.jpg';
-	cardImageEl.alt = '';
+	cardImageEl.alt = 'People at a meeting';
 
 	cardImageInnerEl.appendChild(cardImageEl);
 
